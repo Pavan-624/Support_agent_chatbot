@@ -44,7 +44,7 @@ A modern, AI-powered chatbot designed to provide instant support and answers for
 - Provides essential NLP features like topic extraction and text parsing
 - Much smaller than alternatives like NLTK, making it ideal for client-side processing
 
-- **Build Tool**: Vite
+**Build Tool**: Vite
 
 - Extremely fast development server with hot module replacement
 - Optimized build process for production
