@@ -17,27 +17,27 @@ A modern, AI-powered chatbot designed to provide instant support and answers for
 - 🎨 Modern, responsive UI with Tailwind CSS
 ## Tech Stack
 
-- **Frontend Framework**: React 18 with TypeScript
+**Frontend Framework**: React 18 with TypeScript
 
 - React: Provides efficient component-based UI development with virtual DOM for optimal performance
 - TypeScript: Adds static typing to prevent runtime errors and improve code maintainability
 - Version 18 specifically brings automatic batching and concurrent rendering features
 
-- **Styling**: Tailwind CSS
+**Styling**: Tailwind CSS
 
 - Utility-first approach allows rapid UI development
 - Zero runtime overhead as unused styles are purged during build
 - Highly customizable and maintainable without writing custom CSS
 - Perfect for creating responsive designs quickly
 
-- **Icons**: Lucide React
+**Icons**: Lucide React
 
 - Lightweight icon library with small bundle size
 - Provides clean, consistent, and customizable icons
 - Built specifically for React with proper TypeScript support
 - Easy to use with simple imports and props
 
-- **NLP Processing**: Compromise.js
+**NLP Processing**: Compromise.js
 
 - Lightweight NLP library that works in the browser
 - No external dependencies or server requirements
@@ -51,7 +51,7 @@ A modern, AI-powered chatbot designed to provide instant support and answers for
 - Native TypeScript support
 - Modern ESM-based approach for better performance
 
-- **Deployment**: Netlify
+**Deployment**: Netlify
 
 - Automated deployments from Git
 - Built-in CI/CD pipeline
